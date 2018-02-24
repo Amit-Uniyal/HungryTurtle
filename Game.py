@@ -8,7 +8,7 @@ WIN_SCORE = 200
 # setup screen
 win = turtle.Screen()
 win.title("Hungry Turtle")
-image = 'tree.gif'
+image = 'Images/tree.gif'
 win.bgpic(image)
 win.tracer(3)
 
